@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "175936781149",
+    "project_id": "uber-1d32f",
+    "storage_bucket": "uber-1d32f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:175936781149:android:22f8def337483579d146b4",
+        "android_client_info": {
+          "package_name": "com.simcoder.uber"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "175936781149-ru73f2r6b4j49p8lad1pjr9d3l165fg1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABN3kxjzJU5itt103YR3lYd5HkLd4wJ1Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "175936781149-ru73f2r6b4j49p8lad1pjr9d3l165fg1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
